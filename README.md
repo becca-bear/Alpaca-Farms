@@ -1,6 +1,7 @@
 # Alpaca-Farms
 
-Analyzing a dataset to find out how many farms have alpacas throughout the United States.
+Data analysis on how many farms have alpacas throughout the United States.
+
 
 
 ### Source: https://www.alpacainfo.com/
