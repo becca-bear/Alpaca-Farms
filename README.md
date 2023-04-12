@@ -11,3 +11,7 @@ Data analysis on how many farms have alpacas throughout the United States.
 ![Alpaca-Farms](https://user-images.githubusercontent.com/66655353/231529816-ab78b5b1-2504-4d39-aca2-fcaa33e31ca1.png)
 
 
+
+Takeaways from the analysis:
+- The state with the most alpaca farms is Pennsylvania.
+- The states with no alpaca farms is Alabama and Alaska.
