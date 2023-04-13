@@ -1,6 +1,6 @@
 # Alpaca-Farms-Analysis
 
-Data analysis on how many farms have alpacas throughout the United States.
+Data analysis on how many alpaca farms throughout the United States.
 
 
 
